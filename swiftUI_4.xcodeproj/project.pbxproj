@@ -13,6 +13,8 @@
 		52C4E16D27C72D03002F7977 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 52C4E16C27C72D03002F7977 /* Preview Assets.xcassets */; };
 		52C4E16F27C72D03002F7977 /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52C4E16E27C72D03002F7977 /* Persistence.swift */; };
 		52C4E17227C72D03002F7977 /* swiftUI_4.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 52C4E17027C72D03002F7977 /* swiftUI_4.xcdatamodeld */; };
+		52C4E17927C72D2B002F7977 /* cardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52C4E17827C72D2B002F7977 /* cardView.swift */; };
+		52C4E17B27C73DCC002F7977 /* basicCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52C4E17A27C73DCC002F7977 /* basicCardView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +25,8 @@
 		52C4E16C27C72D03002F7977 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		52C4E16E27C72D03002F7977 /* Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
 		52C4E17127C72D03002F7977 /* swiftUI_4.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = swiftUI_4.xcdatamodel; sourceTree = "<group>"; };
+		52C4E17827C72D2B002F7977 /* cardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = cardView.swift; sourceTree = "<group>"; };
+		52C4E17A27C73DCC002F7977 /* basicCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = basicCardView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +61,8 @@
 			children = (
 				52C4E16527C72D02002F7977 /* swiftUI_4App.swift */,
 				52C4E16727C72D02002F7977 /* ContentView.swift */,
+				52C4E17827C72D2B002F7977 /* cardView.swift */,
+				52C4E17A27C73DCC002F7977 /* basicCardView.swift */,
 				52C4E16927C72D03002F7977 /* Assets.xcassets */,
 				52C4E16E27C72D03002F7977 /* Persistence.swift */,
 				52C4E17027C72D03002F7977 /* swiftUI_4.xcdatamodeld */,
@@ -147,6 +153,8 @@
 				52C4E16F27C72D03002F7977 /* Persistence.swift in Sources */,
 				52C4E16827C72D02002F7977 /* ContentView.swift in Sources */,
 				52C4E16627C72D02002F7977 /* swiftUI_4App.swift in Sources */,
+				52C4E17927C72D2B002F7977 /* cardView.swift in Sources */,
+				52C4E17B27C73DCC002F7977 /* basicCardView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
